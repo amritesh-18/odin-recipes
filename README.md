@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project of this web development journey. Here I made a simple website that consists of a main index page which had links to a few recipes. I had only used basics of HTML for making this project.
